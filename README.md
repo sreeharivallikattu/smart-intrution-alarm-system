@@ -104,7 +104,7 @@ No       Yes
 
 Watch the project detect vibration and activate the complete alarm sequence.
 
- demo video link : 
+ demo video link : https://youtube.com/shorts/udRd3e1xiL4?feature=share
 
 ## Author
 
